@@ -1,0 +1,16 @@
+{
+  "name": "External-Nuke",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "external-nuker": "^1.0.12",
+    "slayer.db": "^1.5.11"
+  }
+}
